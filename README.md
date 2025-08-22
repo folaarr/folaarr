@@ -24,7 +24,7 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and JavaScr
 
 **Other Tools**  
 ![SMTP](https://img.shields.io/badge/SMTP-CC0000?style=for-the-badge&logo=minutemailer&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) ![VPS](https://img.shields.io/badge/VPS%20Deployment-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)  
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white) ![VPS Deployment](https://img.shields.io/badge/VPS%20Deployment-4285F4?style=for-the-badge&logo=icloud&logoColor=white)  
 
 ---
 
