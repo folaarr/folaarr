@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub  
 
-Hi, I’m **Folajimi Abolade** ✨ — a Full-Stack Engineer passionate about building secure, scalable, and user-friendly applications.  
+Hi, I’m **Folajimi Abolade** ✨, a Full-Stack Engineer passionate about building secure, scalable, and user-friendly applications.  
 I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and JavaScript**, while following clean architecture and best practices.  
 
 ---
