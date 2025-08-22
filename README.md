@@ -36,7 +36,7 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and JavaScr
 ---
 
 ### 💡 Early Tech Journey
-Before diving into full-stack development, I explored **electronics & engineering**, which sharpened my problem-solving mindset. Eventually, curiosity led me to programming, and I’ve been building ever since.  
+Before diving into full-stack development, I explored **electronics & engineering**, which sharpened my problem-solving mindset, eventually, curiosity led me to programming, and I’ve been building ever since.  
 
 ---
 
