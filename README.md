@@ -30,7 +30,6 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and JavaScr
 
 ### 📊 GitHub Stats
 
-![Folaarr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=folaarr&show_icons=true&theme=react)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=folaarr&layout=compact&theme=react)  
 ![Folaarr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=folaarr&theme=react-dark)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=folaarr&theme=react&hide_border=true)
