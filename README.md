@@ -10,7 +10,7 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and JavaScr
   🛒 E-commerce demo  
   📂 Authentication system (sign-up, login, password reset via codes)  
   🔐 Media upload manager  
-  🔗 [Source Code](https://github.com/folajimiabolade/fola-develops)  
+  🔗 [Source Code](https://github.com/folaarr/fola-develops)  
 
 - **Flask + React Experiments** – Exploring modern full-stack workflows with API integrations and dynamic UIs.  
   
