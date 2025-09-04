@@ -1,14 +1,16 @@
 # 👋 Welcome to my GitHub  
 
 Hi, I’m **Folajimi Abolade** ✨, a Full-Stack Engineer passionate about building secure, scalable, and user-friendly applications.  
-I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and JavaScript**, while following clean architecture and best practices.  
+I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, JavaScript, HTML, and CSS**, while following clean architecture and best practices.  
 
 ---
 
 ### 🚀 Featured Projects
-- **[FolaDevelops](https://foladevelops.onrender.com)** – My portfolio project showcasing multiple integrated apps:  
-  🛒 E-commerce demo  
-  📂 Authentication system (sign-up, login, password reset via codes)  
+- **[FolaDevelops](https://foladevelops.onrender.com)** – My portfolio project showcasing multiple integrated apps:
+  🤖 AI App  
+  📂 Authentication system (sign-up, login, password reset via codes)
+  🛒 E-commerce demo
+  📝 Note-Taking App
   🔐 Media upload manager  
   🔗 [Source Code](https://github.com/folaarr/fola-develops)  
 
@@ -36,8 +38,7 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and JavaScr
 
 ---
 
-### 🌱 Currently Exploring
-- React + Flask integration for full-stack apps  
+### 🌱 Currently Exploring 
 - Advanced authentication & security patterns  
 - Modern deployment workflows (VPS, Nginx, CI/CD)  
 
