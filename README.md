@@ -6,7 +6,7 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, JavaScript,
 ---
 
 ### 🚀 Featured Projects
-- **[FolaDevelops](https://foladevelops.onrender.com)** – My portfolio project showcasing multiple integrated apps:
+- **[FolaDevelops](https://foladevelops.onrender.com)** – My portfolio project showcasing multiple integrated apps: <br>
   🤖 AI App <br>
   📂 Authentication system (sign-up, login, password reset via codes) <br>
   🛒 E-commerce demo <br>
