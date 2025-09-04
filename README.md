@@ -7,11 +7,11 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, JavaScript,
 
 ### 🚀 Featured Projects
 - **[FolaDevelops](https://foladevelops.onrender.com)** – My portfolio project showcasing multiple integrated apps:
-  🤖 AI App  
-  📂 Authentication system (sign-up, login, password reset via codes)
-  🛒 E-commerce demo
-  📝 Note-Taking App
-  🔐 Media upload manager  
+  🤖 AI App <br>
+  📂 Authentication system (sign-up, login, password reset via codes) <br>
+  🛒 E-commerce demo <br>
+  📝 Note-Taking App <br>
+  🔐 Media upload manager <br>
   🔗 [Source Code](https://github.com/folaarr/fola-develops)  
 
 - **Flask + React Experiments** – Exploring modern full-stack workflows with API integrations and dynamic UIs.  
