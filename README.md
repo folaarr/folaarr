@@ -8,14 +8,19 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, JavaScript,
 ### 🚀 Featured Projects
 - **[FolaDevelops](https://foladevelops.onrender.com)** – My portfolio project showcasing multiple integrated apps: <br>
   🤖 AI App <br>
-  📂 Authentication system (sign-up, login, password reset via codes) <br>
+  🔑 Authentication system (sign-up, login, password reset via codes) <br>
   🛒 E-commerce demo <br>
   📝 Note-Taking App <br>
-  🔐 Media upload manager <br>
+  📤 Media upload manager <br>
   🔗 [Source Code](https://github.com/folaarr/fola-develops)  
 
-- **Flask + React Experiments** – Exploring modern full-stack workflows with API integrations and dynamic UIs.  
-  
+---
+
+### 🌱 Currently Exploring 
+- 🖥️ **Flask + React Experiments** – Modern full-stack workflows with API integrations and dynamic UIs.
+- 📱 **React Native** - Cross-platform mobile development
+- 🔐 **Advanced authentication & security** - Advanced patterns for secure applications
+- ☁️ **Modern deployment workflows** - Cloud platforms, CI/CD, Docker, Kubernetes
 
 ---
 
@@ -34,13 +39,7 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, JavaScript,
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=folaarr&layout=compact&theme=react)  
 ![Folaarr's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=folaarr&theme=react-dark)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=folaarr&theme=react&hide_border=true)
-
----
-
-### 🌱 Currently Exploring 
-- Advanced authentication & security patterns  
-- Modern deployment workflows (VPS, Nginx, CI/CD)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=folaarr&theme=react&hide_border=true)  
 
 ---
 
