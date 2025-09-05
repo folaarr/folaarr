@@ -48,6 +48,6 @@ Before diving into full-stack development, I explored **electronics & engineerin
 
 ---
 
-### 📬 Let’s Connect
+### 📬 Socials
 - [X](https://www.x.com/onlyonefola/)  
 - [LinkedIn](https://www.linkedin.com/in/folajimi-abolade-379a01362/)    
