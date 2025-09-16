@@ -6,6 +6,11 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, JavaScript,
 ---
 
 ### 🚀 Featured Projects
+- **[QuickBite](https://quickbitekitchen.onrender.com)** – Official website for a restaurant:  
+  🍽️ Fully responsive menu and info site  
+  🌐 Built with HTML, CSS, JavaScript  
+  🔧 Deployed on Render with SEO optimization
+  
 - **[FolaDevelops](https://foladevelops.onrender.com)** – My portfolio project showcasing multiple integrated apps: <br>
   🤖 AI App <br>
   🔑 Authentication system (sign-up, login, password reset via codes) <br>
@@ -49,5 +54,6 @@ Before diving into full-stack development, I explored **electronics & engineerin
 ---
 
 ### 📬 Socials
+- [Portfolio](https://foladevelops.onrender.com/) 
 - [X](https://www.x.com/onlyonefola/)  
-- [LinkedIn](https://www.linkedin.com/in/folajimi-abolade-379a01362/)    
+- [LinkedIn](https://www.linkedin.com/in/folajimi-abolade/)    
