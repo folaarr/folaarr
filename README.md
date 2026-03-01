@@ -23,8 +23,8 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, JavaScript,
   🔐 Token-based authentication and protected routes <br>
   ⚡ Real-time PostgreSQL data integration <br>
   🧠 Structured state management <br>
-  📦 Optimized Android build for testing and distribution
-  📥 [APK Download](https://github.com/folaarr/fola-develops-mobile/releases/tag/v1.0.0)  
+  📦 Optimized Android build for testing and distribution <br>
+  📥 [APK Download](https://github.com/folaarr/fola-develops-mobile/releases/tag/v1.0.0)  <br> 
   🔗 [Source Code](https://github.com/folaarr/fola-develops-mobile)  
 
 ---
