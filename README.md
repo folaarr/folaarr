@@ -19,7 +19,7 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, JavaScript,
   📤 Media upload manager <br>
   🔗 [Source Code](https://github.com/folaarr/fola-develops)  
   
-- **Mobile App** – Fully functional mobile application connected to a secure Flask REST API: <br>
+- **[Mobile App](#)** – Fully functional mobile application connected to a secure Flask REST API: <br>
   🔐 Token-based authentication and protected routes <br>
   ⚡ Real-time PostgreSQL data integration <br>
   🧠 Structured state management <br>
