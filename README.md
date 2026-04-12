@@ -12,7 +12,7 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, JavaScript,
   🔧 Deployed on Render with SEO optimization
   
 - **[FolaDevelops](https://foladevelops.onrender.com)** – My portfolio project showcasing multiple integrated apps: <br>
-  💳 Payment System (Paystack Integration) <br>
+  💳 Payment System (Paystack and Flutterwave Integration) <br>
   🤖 AI App <br>
   🔑 Authentication system (sign-up, login, password reset via codes) <br>
   🛒 E-commerce demo <br>
