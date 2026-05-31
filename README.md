@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub  
 
 Hi, I’m **Folajimi Abolade** ✨, a Web and Mobile Applications Developer passionate about building secure, scalable, and user-friendly applications.  
-I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, React, HTML, and CSS**, while following clean architecture and best practices.  
+I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and React**, while following clean architecture and best practices.  
 
 ---
 
