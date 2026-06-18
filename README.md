@@ -6,15 +6,15 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and React**
 ---
 
 ### 🚀 Featured Projects
-- **[Tomaht](https://tomaht.com)** – Official website for a real estate and property development company:  
-  🌐 Fully responsive business website showcasing services and properties  
-  🧱 Built with HTML, CSS, and JavaScript
-  🚀 Deployed with custom domain and production hosting setup
+- **[Tomaht](https://tomaht.com)** – Official website for a real estate and property development company:  <br>
+  🌐 Fully responsive business website showcasing services and properties  <br>
+  🧱 Built with HTML, CSS, and JavaScript <br>
+  🚀 Deployed with custom domain and production hosting setup <br>
   ⚡ Optimized for performance, SEO, and mobile usability
   
 - **[QuickBite](https://quickbitekitchen.onrender.com)** – Official website for a restaurant:  
-  🍽️ Fully responsive menu and info site  
-  🌐 Built with HTML, CSS, JavaScript  
+  🍽️ Fully responsive menu and info site  <br>
+  🌐 Built with HTML, CSS, JavaScript  <br>
   🔧 Deployed on Render with SEO optimization
   
 - **[Mobile App](#)** – Fully functional mobile application connected to a secure Flask REST API: <br>
