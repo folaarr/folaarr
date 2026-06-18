@@ -68,6 +68,6 @@ Before diving into full-stack development, I explored **electronics & engineerin
 ---
 
 ### 📬 Socials
-- [Portfolio](https://foladevelops.onrender.com/) 
-- [X](https://www.x.com/onlyonefola/)  
+- [Portfolio](https://foladevelops.com/) 
+- [X](https://www.x.com/foladevelops/)  
 - [LinkedIn](https://www.linkedin.com/in/folajimi-abolade/)    
