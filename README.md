@@ -1,15 +1,29 @@
 # 👋 Welcome to my GitHub  
 
-Hi, I’m **Folajimi Abolade** ✨, a Web and Mobile Applications Developer passionate about building secure, scalable, and user-friendly applications.  
+Hi, I’m **Folajimi Abolade** ✨, a Web and Mobile Developer passionate about building secure, scalable, and user-friendly applications.  
 I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and React**, while following clean architecture and best practices.  
 
 ---
 
 ### 🚀 Featured Projects
+- **[Tomaht](https://tomaht.com)** – Official website for a real estate and property development company:  
+  🌐 Fully responsive business website showcasing services and properties  
+  🧱 Built with HTML, CSS, and JavaScript
+  🚀 Deployed with custom domain and production hosting setup
+  ⚡ Optimized for performance, SEO, and mobile usability
+  
 - **[QuickBite](https://quickbitekitchen.onrender.com)** – Official website for a restaurant:  
   🍽️ Fully responsive menu and info site  
   🌐 Built with HTML, CSS, JavaScript  
   🔧 Deployed on Render with SEO optimization
+  
+- **[Mobile App](#)** – Fully functional mobile application connected to a secure Flask REST API: <br>
+  🔐 Token-based authentication and protected routes <br>
+  ⚡ Real-time PostgreSQL data integration <br>
+  🧠 Structured state management <br>
+  📦 Optimized Android build for testing and distribution <br>
+  📥 [APK Download](https://github.com/folaarr/fola-develops-mobile/releases/tag/v1.0.0)  <br> 
+  🔗 [Source Code](https://github.com/folaarr/fola-develops-mobile)  
   
 - **[FolaDevelops](https://foladevelops.onrender.com)** – My portfolio project showcasing multiple integrated apps: <br>
   💳 Payment System (Paystack and Flutterwave Integration) <br>
@@ -19,14 +33,6 @@ I enjoy turning ideas into reality with **Python, Flask, SQLAlchemy, and React**
   📝 Note-Taking App <br>
   📤 Media upload manager <br>
   🔗 [Source Code](https://github.com/folaarr/fola-develops)  
-  
-- **[Mobile App](#)** – Fully functional mobile application connected to a secure Flask REST API: <br>
-  🔐 Token-based authentication and protected routes <br>
-  ⚡ Real-time PostgreSQL data integration <br>
-  🧠 Structured state management <br>
-  📦 Optimized Android build for testing and distribution <br>
-  📥 [APK Download](https://github.com/folaarr/fola-develops-mobile/releases/tag/v1.0.0)  <br> 
-  🔗 [Source Code](https://github.com/folaarr/fola-develops-mobile)  
 
 ---
 
